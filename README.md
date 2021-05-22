@@ -1,2 +1,2 @@
 # SimpleJavaApp
-Project Using Java
+Chatbot Project Using Java
